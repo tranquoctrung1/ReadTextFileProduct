@@ -1,0 +1,12 @@
+D:\project\ReadTextFileProduct\ReadTextFileProduct\bin\Debug\ReadTextFileProduct.exe.config
+D:\project\ReadTextFileProduct\ReadTextFileProduct\bin\Debug\ReadTextFileProduct.exe
+D:\project\ReadTextFileProduct\ReadTextFileProduct\bin\Debug\ReadTextFileProduct.pdb
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.csproj.AssemblyReference.cache
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.csproj.SuggestedBindingRedirects.cache
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.Form1.resources
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.Properties.Resources.resources
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.csproj.GenerateResource.cache
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.csproj.CoreCompileInputs.cache
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.exe
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.pdb
+D:\project\ReadTextFileProduct\ReadTextFileProduct\obj\Debug\ReadTextFileProduct.csproj.ResolveComReference.cache
